@@ -4,3 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+The above is the front matter used by jekyll.
+
+This was originally created using jekyll build.
+Then look into
+
+https://github.com/blog/2233-publish-your-project-documentation-with-github-pages
+
+for information on how to get this working.
+
+
+
